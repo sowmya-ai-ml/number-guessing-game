@@ -1,4 +1,4 @@
-#Number Guessing Game
+# Number Guessing Game
 This is a simple Python number guessing game created using Google Colab.
 
 ## Description
